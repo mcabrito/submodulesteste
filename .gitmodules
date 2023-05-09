@@ -1,0 +1,7 @@
+[submodule "dev"]
+	path = env/dev
+	url = git@github.com:mcabrito/bb-app-source.git
+
+[submodule "prd"]
+	path = env/prd
+	url = git@github.com:mcabrito/bb-app-source.git
